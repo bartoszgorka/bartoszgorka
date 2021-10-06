@@ -25,4 +25,14 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phoenix 1.6 released!](https://bartoszgorka.com/phoenix-1-6-released)
+- [Recruitment and IT - when two worlds meet](https://bartoszgorka.com/recruitment-and-it-when-two-worlds-meet)
+- [How a pulse oximeter works](https://bartoszgorka.com/how-a-pulse-oximeter-works)
+- [Faster test execution in Elixir](https://bartoszgorka.com/faster-test-execution-in-elixir)
+- [Dynamic Queries in Ecto](https://bartoszgorka.com/dynamic-queries-in-ecto)
+- [Code review is not for catching bugs](https://bartoszgorka.com/code-review-is-not-for-catching-bugs)
+- [Programmer’s personal branding](https://bartoszgorka.com/programmers-personal-branding)
+- [Response status and the security of your API](https://bartoszgorka.com/response-status-and-the-security-of-your-api)
+- [Take care of your customers](https://bartoszgorka.com/take-care-of-your-customers)
+- [Principles of estimating](https://bartoszgorka.com/principles-of-estimating)
 <!-- BLOG-POST-LIST:END -->
