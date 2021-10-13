@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What could the Internet of the future look like?](https://bartoszgorka.com/what-could-the-internet-of-the-future-look-like)
 - [Phoenix 1.6 released!](https://bartoszgorka.com/phoenix-1-6-released)
 - [Recruitment and IT - when two worlds meet](https://bartoszgorka.com/recruitment-and-it-when-two-worlds-meet)
 - [How a pulse oximeter works](https://bartoszgorka.com/how-a-pulse-oximeter-works)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Programmer’s personal branding](https://bartoszgorka.com/programmers-personal-branding)
 - [Response status and the security of your API](https://bartoszgorka.com/response-status-and-the-security-of-your-api)
 - [Take care of your customers](https://bartoszgorka.com/take-care-of-your-customers)
-- [Principles of estimating](https://bartoszgorka.com/principles-of-estimating)
 <!-- BLOG-POST-LIST:END -->
