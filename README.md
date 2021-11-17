@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Long-term thinking](https://bartoszgorka.com/long-term-thinking)
 - [UUID as Primary key with Ecto](https://bartoszgorka.com/uuid-as-primary-key-with-ecto)
 - [Kranzberg’s laws of technology](https://bartoszgorka.com/kranzbergs-laws-of-technology)
 - [Ecto Named Bindings in your queries](https://bartoszgorka.com/ecto-named-bindings-in-your-queries)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Recruitment and IT - when two worlds meet](https://bartoszgorka.com/recruitment-and-it-when-two-worlds-meet)
 - [How a pulse oximeter works](https://bartoszgorka.com/how-a-pulse-oximeter-works)
 - [Faster test execution in Elixir](https://bartoszgorka.com/faster-test-execution-in-elixir)
-- [Dynamic Queries in Ecto](https://bartoszgorka.com/dynamic-queries-in-ecto)
 <!-- BLOG-POST-LIST:END -->
