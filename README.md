@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic tests won’t solve all your problems](https://bartoszgorka.com/automatic-tests-wont-solve-all-your-problems)
 - [Parkinson’s Law](https://bartoszgorka.com/parkinsons-law)
 - [Long-term thinking](https://bartoszgorka.com/long-term-thinking)
 - [UUID as Primary key with Ecto](https://bartoszgorka.com/uuid-as-primary-key-with-ecto)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [What could the Internet of the future look like?](https://bartoszgorka.com/what-could-the-internet-of-the-future-look-like)
 - [Phoenix 1.6 released!](https://bartoszgorka.com/phoenix-1-6-released)
 - [Recruitment and IT - when two worlds meet](https://bartoszgorka.com/recruitment-and-it-when-two-worlds-meet)
-- [How a pulse oximeter works](https://bartoszgorka.com/how-a-pulse-oximeter-works)
 <!-- BLOG-POST-LIST:END -->
