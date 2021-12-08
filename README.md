@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Global customize for inspect data in Elixir](https://bartoszgorka.com/global-customize-for-inspect-data-in-elixir)
 - [Automatic tests won’t solve all your problems](https://bartoszgorka.com/automatic-tests-wont-solve-all-your-problems)
 - [Parkinson’s Law](https://bartoszgorka.com/parkinsons-law)
 - [Long-term thinking](https://bartoszgorka.com/long-term-thinking)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [You will not avoid mistakes while creating the software](https://bartoszgorka.com/you-will-not-avoid-mistakes-while-creating-the-software)
 - [What could the Internet of the future look like?](https://bartoszgorka.com/what-could-the-internet-of-the-future-look-like)
 - [Phoenix 1.6 released!](https://bartoszgorka.com/phoenix-1-6-released)
-- [Recruitment and IT - when two worlds meet](https://bartoszgorka.com/recruitment-and-it-when-two-worlds-meet)
 <!-- BLOG-POST-LIST:END -->
