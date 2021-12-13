@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL: How to remove unused dependencies from mix.lock](https://bartoszgorka.com/clear-mix-lock)
 - [Global customize for inspect data in Elixir](https://bartoszgorka.com/global-customize-for-inspect-data-in-elixir)
 - [Automatic tests won’t solve all your problems](https://bartoszgorka.com/automatic-tests-wont-solve-all-your-problems)
 - [Parkinson’s Law](https://bartoszgorka.com/parkinsons-law)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Ecto Named Bindings in your queries](https://bartoszgorka.com/ecto-named-bindings-in-your-queries)
 - [You will not avoid mistakes while creating the software](https://bartoszgorka.com/you-will-not-avoid-mistakes-while-creating-the-software)
 - [What could the Internet of the future look like?](https://bartoszgorka.com/what-could-the-internet-of-the-future-look-like)
-- [Phoenix 1.6 released!](https://bartoszgorka.com/phoenix-1-6-released)
 <!-- BLOG-POST-LIST:END -->
