@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixir 1.13 released: The developer’s point of view](https://bartoszgorka.com/elixir-1-13-released)
 - [TIL: How to remove unused dependencies from mix.lock](https://bartoszgorka.com/clear-mix-lock)
 - [Global customize for inspect data in Elixir](https://bartoszgorka.com/global-customize-for-inspect-data-in-elixir)
 - [Automatic tests won’t solve all your problems](https://bartoszgorka.com/automatic-tests-wont-solve-all-your-problems)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Kranzberg’s laws of technology](https://bartoszgorka.com/kranzbergs-laws-of-technology)
 - [Ecto Named Bindings in your queries](https://bartoszgorka.com/ecto-named-bindings-in-your-queries)
 - [You will not avoid mistakes while creating the software](https://bartoszgorka.com/you-will-not-avoid-mistakes-while-creating-the-software)
-- [What could the Internet of the future look like?](https://bartoszgorka.com/what-could-the-internet-of-the-future-look-like)
 <!-- BLOG-POST-LIST:END -->
