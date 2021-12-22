@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understand the domain of your project](https://bartoszgorka.com/understand-the-domain-of-your-project)
 - [Elixir 1.13 released: The developer’s point of view](https://bartoszgorka.com/elixir-1-13-released)
 - [TIL: How to remove unused dependencies from mix.lock](https://bartoszgorka.com/clear-mix-lock)
 - [Global customize for inspect data in Elixir](https://bartoszgorka.com/global-customize-for-inspect-data-in-elixir)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [UUID as Primary key with Ecto](https://bartoszgorka.com/uuid-as-primary-key-with-ecto)
 - [Kranzberg’s laws of technology](https://bartoszgorka.com/kranzbergs-laws-of-technology)
 - [Ecto Named Bindings in your queries](https://bartoszgorka.com/ecto-named-bindings-in-your-queries)
-- [You will not avoid mistakes while creating the software](https://bartoszgorka.com/you-will-not-avoid-mistakes-while-creating-the-software)
 <!-- BLOG-POST-LIST:END -->
