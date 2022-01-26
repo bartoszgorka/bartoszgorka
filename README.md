@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero downtime deployments](https://bartoszgorka.com/zero-downtime-deployments)
 - [A ways to be a more effective engineer](https://bartoszgorka.com/ways_to_be_more_effective_engineer)
 - [Skills development as the best investment in life](https://bartoszgorka.com/skills-development-as-the-best-investment-in-life)
 - [Using View as a way to simplify your system](https://bartoszgorka.com/view-as-way-to-eliminate-problematic-queries)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [TIL: How to remove unused dependencies from mix.lock](https://bartoszgorka.com/clear-mix-lock)
 - [Global customize for inspect data in Elixir](https://bartoszgorka.com/global-customize-for-inspect-data-in-elixir)
 - [Automatic tests won’t solve all your problems](https://bartoszgorka.com/automatic-tests-wont-solve-all-your-problems)
-- [Parkinson’s Law](https://bartoszgorka.com/parkinsons-law)
 <!-- BLOG-POST-LIST:END -->
