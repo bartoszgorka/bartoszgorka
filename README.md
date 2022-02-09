@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check your password security with Have I Been Pwned?](https://bartoszgorka.com/check_your_password_security_with_have_i_been_pwned)
 - [TIL: Custom timestamps fields in Elixir](https://bartoszgorka.com/custom-timestamps-fields-in-elixir)
 - [Zero downtime deployments](https://bartoszgorka.com/zero-downtime-deployments)
 - [A ways to be a more effective engineer](https://bartoszgorka.com/ways_to_be_more_effective_engineer)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Understand the domain of your project](https://bartoszgorka.com/understand-the-domain-of-your-project)
 - [Elixir 1.13 released: The developer’s point of view](https://bartoszgorka.com/elixir-1-13-released)
 - [TIL: How to remove unused dependencies from mix.lock](https://bartoszgorka.com/clear-mix-lock)
-- [Global customize for inspect data in Elixir](https://bartoszgorka.com/global-customize-for-inspect-data-in-elixir)
 <!-- BLOG-POST-LIST:END -->
