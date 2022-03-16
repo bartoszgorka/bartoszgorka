@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL: wrapping an execution in a tuple](https://bartoszgorka.com/til-wrapping-an-execution-in-a-tuple)
 - [What is Open Graph protocol and how to use it for your website?](https://bartoszgorka.com/what-is-open-graph-protocol)
 - [Ecto Changeset for verifying parameters used in your API](https://bartoszgorka.com/ecto_changeset_for_verifying_parameters_used_in_your_api)
 - [How to feel less overwhelmed as a developer](https://bartoszgorka.com/how_to_feel_less_overwhelmed_as_developer)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Zero downtime deployments](https://bartoszgorka.com/zero-downtime-deployments)
 - [A ways to be a more effective engineer](https://bartoszgorka.com/ways_to_be_more_effective_engineer)
 - [Skills development as the best investment in life](https://bartoszgorka.com/skills-development-as-the-best-investment-in-life)
-- [Using View as a way to simplify your system](https://bartoszgorka.com/view-as-way-to-eliminate-problematic-queries)
 <!-- BLOG-POST-LIST:END -->
