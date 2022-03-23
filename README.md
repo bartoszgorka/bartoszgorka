@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed up your daily work with Elixir console tricks](https://bartoszgorka.com/speed-up-your-daily-work-with-elixir-console-tricks)
 - [TIL: wrapping an execution in a tuple](https://bartoszgorka.com/til-wrapping-an-execution-in-a-tuple)
 - [What is Open Graph protocol and how to use it for your website?](https://bartoszgorka.com/what-is-open-graph-protocol)
 - [Ecto Changeset for verifying parameters used in your API](https://bartoszgorka.com/ecto_changeset_for_verifying_parameters_used_in_your_api)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [TIL: Custom timestamps fields in Elixir](https://bartoszgorka.com/custom-timestamps-fields-in-elixir)
 - [Zero downtime deployments](https://bartoszgorka.com/zero-downtime-deployments)
 - [A ways to be a more effective engineer](https://bartoszgorka.com/ways_to_be_more_effective_engineer)
-- [Skills development as the best investment in life](https://bartoszgorka.com/skills-development-as-the-best-investment-in-life)
 <!-- BLOG-POST-LIST:END -->
