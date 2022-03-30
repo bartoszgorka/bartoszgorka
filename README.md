@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good error message](https://bartoszgorka.com/good-error-message)
 - [Speed up your daily work with Elixir console tricks](https://bartoszgorka.com/speed-up-your-daily-work-with-elixir-console-tricks)
 - [TIL: wrapping an execution in a tuple](https://bartoszgorka.com/til-wrapping-an-execution-in-a-tuple)
 - [What is Open Graph protocol and how to use it for your website?](https://bartoszgorka.com/what-is-open-graph-protocol)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Check your password security with Have I Been Pwned?](https://bartoszgorka.com/check_your_password_security_with_have_i_been_pwned)
 - [TIL: Custom timestamps fields in Elixir](https://bartoszgorka.com/custom-timestamps-fields-in-elixir)
 - [Zero downtime deployments](https://bartoszgorka.com/zero-downtime-deployments)
-- [A ways to be a more effective engineer](https://bartoszgorka.com/ways_to_be_more_effective_engineer)
 <!-- BLOG-POST-LIST:END -->
