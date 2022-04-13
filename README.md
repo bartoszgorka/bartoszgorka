@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using JSON Web Tokens and their security](https://bartoszgorka.com/using-json-web-tokens-their-security)
 - [Delegate tasks, and don’t be afraid to say no!](https://bartoszgorka.com/delegate-tasks-dont-be-afraid-to-say-no)
 - [Good error message](https://bartoszgorka.com/good-error-message)
 - [Speed up your daily work with Elixir console tricks](https://bartoszgorka.com/speed-up-your-daily-work-with-elixir-console-tricks)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [How to feel less overwhelmed as a developer](https://bartoszgorka.com/how_to_feel_less_overwhelmed_as_developer)
 - [Elixir tap and then macros - life-saving helpers](https://bartoszgorka.com/elixir-tap-and-then-macros-life-saving-helpers)
 - [Check your password security with Have I Been Pwned?](https://bartoszgorka.com/check_your_password_security_with_have_i_been_pwned)
-- [TIL: Custom timestamps fields in Elixir](https://bartoszgorka.com/custom-timestamps-fields-in-elixir)
 <!-- BLOG-POST-LIST:END -->
