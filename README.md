@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your personal security checklist](https://bartoszgorka.com/your-personal-security-checklist)
 - [Guards - simple restriction checking](https://bartoszgorka.com/guards-simple-restriction-checking)
 - [Find leaked credentials with TruffleHog](https://bartoszgorka.com/find-leaked-credentials-with-trufflehog)
 - [Using JSON Web Tokens and their security](https://bartoszgorka.com/using-json-web-tokens-their-security)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [TIL: wrapping an execution in a tuple](https://bartoszgorka.com/til-wrapping-an-execution-in-a-tuple)
 - [What is Open Graph protocol and how to use it for your website?](https://bartoszgorka.com/what-is-open-graph-protocol)
 - [Ecto Changeset for verifying parameters used in your API](https://bartoszgorka.com/ecto_changeset_for_verifying_parameters_used_in_your_api)
-- [How to feel less overwhelmed as a developer](https://bartoszgorka.com/how_to_feel_less_overwhelmed_as_developer)
 <!-- BLOG-POST-LIST:END -->
