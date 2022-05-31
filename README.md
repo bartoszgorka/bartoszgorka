@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL: Temporary data folder](https://bartoszgorka.com/til-temporary-data-folder)
 - [Make it as easy as possible](https://bartoszgorka.com/make-it-as-easy-as-possible)
 - [TIL: Cancel the scheduled send_after message](https://bartoszgorka.com/til-cancel-scheduled-send-after-message)
 - [Easy SSH connection management with configuration file](https://bartoszgorka.com/easy-ssh-connection-management)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Using JSON Web Tokens and their security](https://bartoszgorka.com/using-json-web-tokens-their-security)
 - [Delegate tasks, and don’t be afraid to say no!](https://bartoszgorka.com/delegate-tasks-dont-be-afraid-to-say-no)
 - [Good error message](https://bartoszgorka.com/good-error-message)
-- [Speed up your daily work with Elixir console tricks](https://bartoszgorka.com/speed-up-your-daily-work-with-elixir-console-tricks)
 <!-- BLOG-POST-LIST:END -->
