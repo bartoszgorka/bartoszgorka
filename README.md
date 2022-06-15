@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KLT principle can save your sales and business](https://bartoszgorka.com/klt-principle-can-save-your-business)
 - [TIL: Temporary data folder](https://bartoszgorka.com/til-temporary-data-folder)
 - [Make it as easy as possible](https://bartoszgorka.com/make-it-as-easy-as-possible)
 - [TIL: Cancel the scheduled send_after message](https://bartoszgorka.com/til-cancel-scheduled-send-after-message)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Find leaked credentials with TruffleHog](https://bartoszgorka.com/find-leaked-credentials-with-trufflehog)
 - [Using JSON Web Tokens and their security](https://bartoszgorka.com/using-json-web-tokens-their-security)
 - [Delegate tasks, and don’t be afraid to say no!](https://bartoszgorka.com/delegate-tasks-dont-be-afraid-to-say-no)
-- [Good error message](https://bartoszgorka.com/good-error-message)
 <!-- BLOG-POST-LIST:END -->
