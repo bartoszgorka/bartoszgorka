@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Health status without log request](https://bartoszgorka.com/health-status-without-log-request)
 - [The Twelve-Factor App methodology](https://bartoszgorka.com/the-twelve-factor-app-methodology)
 - [KLT principle can save your sales and business](https://bartoszgorka.com/klt-principle-can-save-your-business)
 - [TIL: Temporary data folder](https://bartoszgorka.com/til-temporary-data-folder)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Your personal security checklist](https://bartoszgorka.com/your-personal-security-checklist)
 - [Guards - simple restriction checking](https://bartoszgorka.com/guards-simple-restriction-checking)
 - [Find leaked credentials with TruffleHog](https://bartoszgorka.com/find-leaked-credentials-with-trufflehog)
-- [Using JSON Web Tokens and their security](https://bartoszgorka.com/using-json-web-tokens-their-security)
 <!-- BLOG-POST-LIST:END -->
