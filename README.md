@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving problems is not easy](https://bartoszgorka.com/solving-problems-is-not-easy)
 - [Health status without log request](https://bartoszgorka.com/health-status-without-log-request)
 - [The Twelve-Factor App methodology](https://bartoszgorka.com/the-twelve-factor-app-methodology)
 - [KLT principle can save your sales and business](https://bartoszgorka.com/klt-principle-can-save-your-business)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Easy SSH connection management with configuration file](https://bartoszgorka.com/easy-ssh-connection-management)
 - [Your personal security checklist](https://bartoszgorka.com/your-personal-security-checklist)
 - [Guards - simple restriction checking](https://bartoszgorka.com/guards-simple-restriction-checking)
-- [Find leaked credentials with TruffleHog](https://bartoszgorka.com/find-leaked-credentials-with-trufflehog)
 <!-- BLOG-POST-LIST:END -->
