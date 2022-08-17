@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Preventing reuse of the same password](https://bartoszgorka.com/preventing-reuse-of-the-same-password)
 - [Solving problems is not easy](https://bartoszgorka.com/solving-problems-is-not-easy)
 - [Health status without log request](https://bartoszgorka.com/health-status-without-log-request)
 - [The Twelve-Factor App methodology](https://bartoszgorka.com/the-twelve-factor-app-methodology)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [TIL: Cancel the scheduled send_after message](https://bartoszgorka.com/til-cancel-scheduled-send-after-message)
 - [Easy SSH connection management with configuration file](https://bartoszgorka.com/easy-ssh-connection-management)
 - [Your personal security checklist](https://bartoszgorka.com/your-personal-security-checklist)
-- [Guards - simple restriction checking](https://bartoszgorka.com/guards-simple-restriction-checking)
 <!-- BLOG-POST-LIST:END -->
