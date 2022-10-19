@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Take care of your health](https://bartoszgorka.com/take-care-of-your-health)
 - [Your GitHub professional card](https://bartoszgorka.com/your-github-professional-card)
 - [Use dbg to check your Elixir code](https://bartoszgorka.com/use-dbg-to-check-your-elixir-code)
 - [TIL: Correctly comparing dates in Elixir](https://bartoszgorka.com/comparing-dates-in-elixir)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Health status without log request](https://bartoszgorka.com/health-status-without-log-request)
 - [The Twelve-Factor App methodology](https://bartoszgorka.com/the-twelve-factor-app-methodology)
 - [KLT principle can save your sales and business](https://bartoszgorka.com/klt-principle-can-save-your-business)
-- [TIL: Temporary data folder](https://bartoszgorka.com/til-temporary-data-folder)
 <!-- BLOG-POST-LIST:END -->
