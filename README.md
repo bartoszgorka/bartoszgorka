@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring is the key to success](https://bartoszgorka.com/refactoring-key-to-success)
 - [TIL: Regex with name bindings](https://bartoszgorka.com/regex-with-name-bindings)
 - [Should Team Lead continue to code?](https://bartoszgorka.com/team-lead-continue-to-code)
 - [Take care of your health](https://bartoszgorka.com/take-care-of-your-health)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Let’s get to know before you start changing the world](https://bartoszgorka.com/lets-get-to-know-before-you-start-changing-the-world)
 - [Preventing reuse of the same password](https://bartoszgorka.com/preventing-reuse-of-the-same-password)
 - [Solving problems is not easy](https://bartoszgorka.com/solving-problems-is-not-easy)
-- [Health status without log request](https://bartoszgorka.com/health-status-without-log-request)
 <!-- BLOG-POST-LIST:END -->
