@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Companies Layoffs](https://bartoszgorka.com/tech-companies-layoffs)
 - [TIL: Only one server will run your migrations](https://bartoszgorka.com/ecto-migration-executed-once)
 - [Refactoring is the key to success](https://bartoszgorka.com/refactoring-key-to-success)
 - [TIL: Regex with name bindings](https://bartoszgorka.com/regex-with-name-bindings)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Use dbg to check your Elixir code](https://bartoszgorka.com/use-dbg-to-check-your-elixir-code)
 - [TIL: Correctly comparing dates in Elixir](https://bartoszgorka.com/comparing-dates-in-elixir)
 - [Let’s get to know before you start changing the world](https://bartoszgorka.com/lets-get-to-know-before-you-start-changing-the-world)
-- [Preventing reuse of the same password](https://bartoszgorka.com/preventing-reuse-of-the-same-password)
 <!-- BLOG-POST-LIST:END -->
