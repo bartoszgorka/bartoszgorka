@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use GitHub discussion to have comments on your Jekyll blog](https://bartoszgorka.com/github-discussion-comments-for-jekyll-blog)
 - [TIL: Using phash2 for data partitioning](https://bartoszgorka.com/using-phash2-data-partitioning)
 - [Tech Companies Layoffs](https://bartoszgorka.com/tech-companies-layoffs)
 - [TIL: Only one server will run your migrations](https://bartoszgorka.com/ecto-migration-executed-once)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [Take care of your health](https://bartoszgorka.com/take-care-of-your-health)
 - [Your GitHub professional card](https://bartoszgorka.com/your-github-professional-card)
 - [Use dbg to check your Elixir code](https://bartoszgorka.com/use-dbg-to-check-your-elixir-code)
-- [TIL: Correctly comparing dates in Elixir](https://bartoszgorka.com/comparing-dates-in-elixir)
 <!-- BLOG-POST-LIST:END -->
