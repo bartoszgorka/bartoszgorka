@@ -25,6 +25,7 @@ The goal I constantly pursue is to build modern and unique products that allow y
 ### 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customize outputs with Inspect protocol](https://bartoszgorka.com/customize-outputs-inspect-protocol)
 - [Features of well-prepared tests](https://bartoszgorka.com/features-well-prepared-tests)
 - [Use GitHub discussion to have comments on your Jekyll blog](https://bartoszgorka.com/github-discussion-comments-for-jekyll-blog)
 - [TIL: Using phash2 for data partitioning](https://bartoszgorka.com/using-phash2-data-partitioning)
@@ -34,5 +35,4 @@ The goal I constantly pursue is to build modern and unique products that allow y
 - [TIL: Regex with name bindings](https://bartoszgorka.com/regex-with-name-bindings)
 - [Should Team Lead continue to code?](https://bartoszgorka.com/team-lead-continue-to-code)
 - [Take care of your health](https://bartoszgorka.com/take-care-of-your-health)
-- [Your GitHub professional card](https://bartoszgorka.com/your-github-professional-card)
 <!-- BLOG-POST-LIST:END -->
